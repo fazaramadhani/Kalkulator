@@ -1,0 +1,9 @@
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\bin\Debug\kalkulator_faza.exe.config
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\bin\Debug\kalkulator_faza.exe
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\bin\Debug\kalkulator_faza.pdb
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.csprojResolveAssemblyReference.cache
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.Form1.resources
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.Properties.Resources.resources
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.csproj.GenerateResource.Cache
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.exe
+D:\XII\UKK\kalkulator_faza\kalkulator_faza\obj\Debug\kalkulator_faza.pdb
